@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Filme(modifier: Modifier = Modifier) {
 
-    // var sorteio = 1
+    
     var  sorteio by  remember {
         mutableIntStateOf(1)
     }

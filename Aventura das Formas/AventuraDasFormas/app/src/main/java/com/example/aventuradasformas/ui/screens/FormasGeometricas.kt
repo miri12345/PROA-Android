@@ -319,8 +319,6 @@ fun Circulo(navController: NavController) {
                             value = raio,
                             onValueChange = {
                                 raio = it
-                                area =
-                                    if (raio.isNotEmpty()) Math.PI * raio.toDouble() * raio.toDouble() else 0.0
                             },
                             modifier = Modifier
                                 .fillMaxWidth()

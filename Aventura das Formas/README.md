@@ -1,4 +1,4 @@
-# Aventura das Formas Geométricas
+# 🟣🟨🔺 Aventura das Formas Geométricas 🔵🟩🔺
 
 #### Este projeto é um aplicativo móvel que permite calcular a área de diferentes formas geométricas, facilitando o acesso a esses cálculos de maneira prática e intuitiva. O aplicativo possui uma interface amigável, com um menu de navegação para alternar facilmente entre as telas.
 
@@ -6,11 +6,12 @@
 * **Cálculo de Áreas:** Calcule a área de várias formas geométricas, incluindo `círculo`, `quadrado`, `retângulo`, `triângulo`, `hexágono`, `trapézio`, `cubo` e `cubóide`.
 * **Menu de Navegação:** Um menu disponível no topo de cada tela, que permite navegar entre a tela inicial, a tela de termos de uso, e a opção de logout que leva de volta à tela inicial.
   
-### Tecnologias Utilizadas
+### Tecnologias Utilizadas 👩‍💻
 * Kotlin e Jetpack Compose para construção da interface de usuário.
 * Navigation Component para gerenciar a navegação entre as telas.
 
-### Estrutura do Projeto
+### Estrutura do Projeto 🧵
+#### ScreenShots do Emulador do Android Studio. 📱
 #### Tela de Login, Cadastro, confirmação de cadastro e esqueci a senha
 <div>
 </p align="center">
@@ -39,5 +40,9 @@
 <img height=450em" src="https://github.com/miri12345/PROA-Android/blob/main/Aventura%20das%20Formas/Imagens/trapezio.jpg" />
 <img height="450em" src="https://github.com/miri12345/PROA-Android/blob/main/Aventura%20das%20Formas/Imagens/cubo.jpg" />
 <img height="450em" src="https://github.com/miri12345/PROA-Android/blob/main/Aventura%20das%20Formas/Imagens/cuboide.jpg" />
-  
+
 </div>
+
+##
+
+[Projeto do Figma](https://www.figma.com/design/ewH1rPm3Jm73IflawtnSWn/Prot%C3%B3tipo-Aventura-das-Formas?node-id=0-1&t=wUzERrGFo3zUCc6x-1)

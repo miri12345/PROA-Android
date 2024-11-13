@@ -43,6 +43,3 @@
 
 </div>
 
-##
-
-[Projeto do Figma](https://www.figma.com/design/ewH1rPm3Jm73IflawtnSWn/Prot%C3%B3tipo-Aventura-das-Formas?node-id=0-1&t=wUzERrGFo3zUCc6x-1)

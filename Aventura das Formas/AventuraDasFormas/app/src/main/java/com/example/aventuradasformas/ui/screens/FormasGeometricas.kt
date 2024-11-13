@@ -1070,7 +1070,7 @@ fun Cuboide(navController: NavController) {
                     ) {
 
                         Text(
-                            text = "Lado",
+                            text = "Comprimento",
                             fontWeight = FontWeight.Medium,
                             fontSize = 18.sp,
                             modifier = Modifier.padding(5.dp)
@@ -1081,7 +1081,7 @@ fun Cuboide(navController: NavController) {
                                 comprimento = it
                             },
                             modifier = Modifier
-                                .fillMaxWidth(0.9f)
+                                .fillMaxWidth()
                                 .background(Color(0xFFFFDAB9), shape = RoundedCornerShape(9.dp))
                                 .height(40.dp)
                         )
@@ -1133,7 +1133,7 @@ fun Cuboide(navController: NavController) {
                                 altura = it
                             },
                             modifier = Modifier
-                                .fillMaxWidth(0.9f)
+                                .fillMaxWidth()
                                 .background(Color(0xFFFFDAB9), shape = RoundedCornerShape(9.dp))
                                 .height(40.dp)
                         )

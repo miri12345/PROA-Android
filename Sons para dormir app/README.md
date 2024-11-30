@@ -7,7 +7,7 @@
 * **Framework:** Jetpack Compose
 * **Biblioteca de Áudio:** MediaPlayer do Android SDK
 
-#### ScreenShots do Emulador do Android Studio. 📱
+### ScreenShots do Emulador do Android Studio. 📱
 #### Tela uníca
 <div>
 </p align="center">

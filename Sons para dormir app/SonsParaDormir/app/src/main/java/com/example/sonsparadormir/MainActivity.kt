@@ -101,9 +101,9 @@ fun WhiteNoise() {
                         valueRange = 0f..1f,
                         modifier = Modifier.padding(horizontal = 32.dp),
                         colors = SliderDefaults.colors(
-                            thumbColor = UranianBlue, // Cor do botão de deslizar
-                            activeTrackColor = LightSkyBlue, // Cor da trilha ativa
-                            inactiveTrackColor = ChampagnePink.copy(alpha = 0.4f) // Cor da trilha inativa
+                            thumbColor = UranianBlue,
+                            activeTrackColor = LightSkyBlue,
+                            inactiveTrackColor = ChampagnePink.copy(alpha = 0.4f)
                         )
                     )
 
@@ -114,13 +114,13 @@ fun WhiteNoise() {
                     Slider(
                         value = timerDuration.toFloat(),
                         onValueChange = { timerDuration = it.toLong() },
-                        valueRange = 10000f..300000f, // Entre 10 segundos e 5 minutos
+                        valueRange = 10000f..300000f,
                         steps = 10,
                         modifier = Modifier.padding(horizontal = 32.dp),
                         colors = SliderDefaults.colors(
-                            thumbColor = UranianBlue, // Cor do botão de deslizar
-                            activeTrackColor = LightSkyBlue, // Cor da trilha ativa
-                            inactiveTrackColor = ChampagnePink.copy(alpha = 0.4f) // Cor da trilha inativa
+                            thumbColor = UranianBlue,
+                            activeTrackColor = LightSkyBlue,
+                            inactiveTrackColor = ChampagnePink.copy(alpha = 0.4f)
                         )
 
 
